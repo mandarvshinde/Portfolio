@@ -19,7 +19,7 @@ I created and maintained documentation for these products. Contact me for precis
 
 * [System Manager](https://documentation.avaya.com/bundle/AdministeringAvayaAuraSystemManager_r8.0/page/WhatIsNewInThisRelease.html)
 * [Communication Manager](https://documentation.avaya.com/bundle/CommunicationManagerPOS_r8.0/page/CommunicationManagerOverview.html)
-* [Avaya G430 Branch Gateway CLI Reference)](https://documentation.avaya.com/bundle/AvayaG430BranchGatewayCLIReference_10.1/page/AboutTheCLI.html)
+* [Avaya G430 Branch Gateway CLI Reference](https://documentation.avaya.com/bundle/AvayaG430BranchGatewayCLIReference_10.1/page/AboutTheCLI.html)
 
 
 ## LinkedIn 
